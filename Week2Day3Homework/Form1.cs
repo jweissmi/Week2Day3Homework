@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Week2Day3Homework
 {
-    public partial class Form1 : Form
+    public partial class MainForm : Form
     {
-        public Form1()
+        public MainForm()
         {
             InitializeComponent();
         }
